@@ -9,7 +9,15 @@ a program to help gooner disk
 - rename photo, gif, and video to a sorted integer name
 - make a photobook from photo list
 
-## INSTALATION
+## INSTALATION & RUN
+
+install program with git
+
+```cmd
+git clone "https://github.com/kali-paperline/goon.git"
+```
+
+run program with python
 
 ```cmd
 python goon.py
