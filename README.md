@@ -1,6 +1,6 @@
 # GOON
 
-a program to help gooner disk
+a cli program to help gooner disk. created with python 3.13
 
 ## FEATURES
 
@@ -9,7 +9,7 @@ a program to help gooner disk
 - rename photo, gif, and video to a sorted integer name
 - make a photobook from photo list
 
-## INSTALATION & RUN
+## INSTALLATION & RUN
 
 install program with git
 
