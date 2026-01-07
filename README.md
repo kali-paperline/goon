@@ -15,6 +15,7 @@ install program with git
 
 ```cmd
 git clone "https://github.com/kali-paperline/goon.git"
+cd goon
 ```
 
 run program with python
